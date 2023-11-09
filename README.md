@@ -1,6 +1,6 @@
 ### Olá, pode me chamar de Char ou Miguel
 
--  Atualmente estudando .NET
+-  Atualmente estudando .NET, HTML, CSS e Javascript
 
 ##
 
