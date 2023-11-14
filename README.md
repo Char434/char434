@@ -1,4 +1,4 @@
-### Olá, pode me chamar de Char ou Miguel
+### Olá, pode me chamar de Miguel
 
 -  Atualmente estudando .NET, HTML, CSS e Javascript
 
