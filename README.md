@@ -9,7 +9,7 @@
 
 ##
 
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://github.com/simple-icons/simple-icons/blob/develop/icons/php.svg)">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </div>
 
 ##
