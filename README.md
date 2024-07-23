@@ -1,6 +1,6 @@
 ### Olá, pode me chamar de Miguel
 
--  Atualmente estudando .NET, HTML, CSS e Javascript
+-  Atualmente estudando PHP
 
 ##
 
