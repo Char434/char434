@@ -1,4 +1,4 @@
-### Olá, pode me chamar de Miguel
+### Olá, pode me chamar de Char
 
 -  Atualmente estudando PHP
 
